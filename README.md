@@ -15,7 +15,6 @@
 - 🌱 I am currently studying full-stack web development with Ruby on Rails on [**THE ODIN PROJECT**](https://www.theodinproject.com/)
 - 💬 Talk to me about python, self-improvement & good internship offers :D
 - 👯 We can connect to play some games!
-- ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
